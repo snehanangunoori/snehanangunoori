@@ -1,7 +1,8 @@
 ![header image](/utdallas.jpg)
 
 # 💫 About Me:
-🖥️ I'm currently working on a machine learning project at Verizon (Break through <br>Tech program).<br>🌱I'm currently learning React.<br>⚡I attended elementary, middle, and high school in two different countries spanning three cities.
+🖥️ I'm currently working on a machine learning project at Verizon (Break through <br>Tech program).<br>🌱I'm currently learning React.<br>⚡I attended elementary, middle, and high school in two different countries spanning three cities.<br>
+📫 How to reach me: snehan.intern@gmail.com
 
 
 ## 🌐 Socials:
