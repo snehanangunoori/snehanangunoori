@@ -1,5 +1,3 @@
-<img src="/UTD.jpg" alt="header image" style="width: 50%; height: 30%;">
-
 # 💫 About Me
 🖥️ Currently working on a machine learning project at Verizon as part of the Break Through Tech program.  
 🌱 Actively learning React.  
