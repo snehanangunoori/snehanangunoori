@@ -1,11 +1,12 @@
 ## <div align="center" style="padding: 10%;">👋🏾 Heylo (hey + hello[3:]) I'm **Sneha**!</div>
-- 🖥️ A curious and dedicated **Computer Science** major at UT Dallas passionate about building impactful technology. I’m especially fascinated by the intersection of AI/ML and real-world problems.  
-- 🚀 Looking to learn, collaborate, and create — whether that’s through hackathons, research, or projects.  
+- 🖥️ A curious and dedicated **Computer Science** student at UT Dallas passionate about building impactful technology.
+- 🚀 Looking to learn, collaborate, and create — whether that’s through hackathons, research, or projects.
+- 🔐 Currently cooking up a FastAPI-based Auth server to experiment with hashing algorithms (Argon2 ftw) and level up my backend game, one secure login at a time.
 - 🌐 Let's Connect!  
   - 📧 Gmail: [snehan.intern@gmail.com](mailto:snehan.intern@gmail.com)  
   - 💼 LinkedIn: [snehanangunoori](https://linkedin.com/in/snehanangunoori)  
-- ✨ Fun Fact I’ve attended elementary, middle, and high school across two countries and three cities — adaptability is my second nature!
-- 🎶 Outside of tech, I’m deeply passionate about **Carnatic music**, a classical South Indian art form. I’ve spent over 10 years practicing vocal performance and love how it blends mathematical rhythm with rich emotional expression.
+- ✨ Fun Fact: I’ve attended elementary, middle, and high school across two countries and three cities — adaptability is my second nature!
+- 🎶 Outside of tech, I’m deeply engaged in **Carnatic music**, a classical South Indian art form. I’ve spent over 10 years practicing vocal performance and love how it blends mathematical rhythm with rich emotional expression.
 
 
 ## 🛠️ Tech Stack  
