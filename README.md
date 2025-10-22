@@ -1,10 +1,10 @@
 ## <div align="center" style="padding: 10%;">👋🏾 Heylo (hey + hello[3:]) I'm **Sneha**!</div>
 - 🖥️ A curious and dedicated **Computer Science** student at UT Dallas passionate about building impactful technology.
-- 🚀 Looking to learn, collaborate, and create — whether that’s through hackathons, research, or projects.
+- 🚀 Looking to learn, collaborate, and create - whether that’s through hackathons, research, or projects.
 - 🌐 Let's Connect!  
   - 📧 Gmail: [snehan.intern@gmail.com](mailto:snehan.intern@gmail.com)  
   - 💼 LinkedIn: [snehanangunoori](https://linkedin.com/in/snehanangunoori)  
-- ✨ Fun Fact: I’ve attended elementary, middle, and high school across two countries and three cities — adaptability is my second nature!
+- ✨ Fun Fact: I’ve attended elementary, middle, and high school across two countries and three cities - adaptability is my second nature!
 - 🎶 Outside of tech, I’m deeply engaged in **Carnatic music**, a classical South Indian art form. I’ve spent over 10 years practicing vocal performance and love how it blends mathematical rhythm with rich emotional expression.
 
 
