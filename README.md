@@ -1,6 +1,7 @@
 ## <div align="center" style="padding: 10%;">👋🏾 Heylo (hey + hello[3:]) I'm **Sneha**!</div>
 - 🖥️ A curious and dedicated **Computer Science** student at UT Dallas passionate about building impactful technology.
 - 🚀 Looking to learn, collaborate, and create - whether that’s through hackathons, research, or projects.
+- 🧪 Check out my **MySandboxEnv** repo to see what I experiment with!
 - 🌐 Let's Connect!  
   - 📧 Gmail: [snehan.intern@gmail.com](mailto:snehan.intern@gmail.com)  
   - 💼 LinkedIn: [snehanangunoori](https://linkedin.com/in/snehanangunoori)  
